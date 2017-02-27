@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:/Users/josephsouthern/Documents/Things/dev/SwiftObjectOrientedDesign/OOP - Intro.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Enum.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Spaghetti.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Refactor.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Factory.playground">
+   </FileRef>
+   <FileRef
+      location = "group:Factory-Enum.playground">
+   </FileRef>
+</Workspace>
